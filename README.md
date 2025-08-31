@@ -6,13 +6,13 @@
   - primeiramente precisei entender de uma forma um pouco mais detalhada sobre o que é um convênio e como funciona. Entendi que um banco pode ter, por exemplo, um convênio de saúde e esse convênio pode ter vários serviços relacionados a ele, como por exemplo serviços de consulta médica e exames de laboratório. Os contratos são as informações de cada serviço fornecido pelo convênio
 ### objetivo da aplicação
   - depois de ter uma noção sobre o funcionamento do convênio em si, precisei entender qual seria o objetivo do sistema, e pelo que entendi, é um sistema de gerenciamento que pode servir principalmente para fazer análises, como no exemplo abaixo, que no caso mostra uma análise de quanto de verba cada banco forneceu, quanto já foi gasto e quanto de verba ainda resta:
-  - ![alt text](image.png)
+  - ![alt text](docs/image.png)
 
 ## Como desenvolvi
 
 ### Modelagem de dados
 - depois de ter entendido as regras de negócio, o processo de modelagem ficou mais simples. Basicamente foi só eu ler o que tinha anotado sobre o que era um convênio e pude entender e definir os relacionamentos
-  - ![alt text](image-1.png)
+  - ![alt text](docs/image-1.png)
   `imagem do diagrama ER`
 
 - obs: utilizei os campos `codigo` como chave primária para todas as tabelas
